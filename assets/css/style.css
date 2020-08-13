@@ -101,6 +101,14 @@ body {
               padding: 10px 20px;
               font-size: 16px;
           }
+
+          .hero-cta h2{
+            
+          }
+          .hero-cta p {
+             
+
+          }
           /* hero style end*/
 
           /* what we do */
@@ -108,6 +116,10 @@ body {
               background-color: #fce138;
           }
           
+          .section-title primary-borde{
+              
+          }
+
           .intro {
               text-align: center;
           }
